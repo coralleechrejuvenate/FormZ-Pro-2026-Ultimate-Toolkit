@@ -2,7 +2,7 @@
 
 Professional collection of 3D modeling, rendering, and design resources for FormZ Pro 2026.
 
-![Preview](https://i.postimg.cc/c1YprYbb/formz-pro-portable.jpg)
+![Preview](https://i.postimg.cc/sxV4jt8B/formz-pro-portable.jpg)
 
 ## Download
 
